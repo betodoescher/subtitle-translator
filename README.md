@@ -140,6 +140,4 @@ traduzir_legenda(arquivo_entrada, arquivo_saida)
 Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-```
-Esse `README.md` agora inclui instruções completas para instalação, extração de legendas, uso do script de tradução e personalização. Certifique-se de ajustar qualquer parte conforme necessário para se adequar ao seu projeto específico.
-```
+"Esse `README.md` agora inclui instruções completas para instalação, extração de legendas, uso do script de tradução e personalização. Certifique-se de ajustar qualquer parte conforme necessário para se adequar ao seu projeto específico."
